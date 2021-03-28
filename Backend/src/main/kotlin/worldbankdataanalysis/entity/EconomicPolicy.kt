@@ -1,4 +1,4 @@
-package ru.firstlinesoftware.studproject.worldbankdataanalysis.entity
+package worldbankdataanalysis.entity
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue

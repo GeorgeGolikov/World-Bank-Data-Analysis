@@ -1,9 +1,9 @@
-package ru.firstlinesoftware.studproject.worldbankdataanalysis.service
+package worldbankdataanalysis.service
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
-import ru.firstlinesoftware.studproject.worldbankdataanalysis.entity.EconomicPolicy
-import ru.firstlinesoftware.studproject.worldbankdataanalysis.repository.EconomicPolicyRepository
+import worldbankdataanalysis.entity.EconomicPolicy
+import worldbankdataanalysis.repository.EconomicPolicyRepository
 
 @Service
 class EconomicPolicyServiceImpl @Autowired constructor(

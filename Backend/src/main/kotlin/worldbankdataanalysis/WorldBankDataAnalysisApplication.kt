@@ -1,4 +1,4 @@
-package ru.firstlinesoftware.studproject.worldbankdataanalysis
+package worldbankdataanalysis
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

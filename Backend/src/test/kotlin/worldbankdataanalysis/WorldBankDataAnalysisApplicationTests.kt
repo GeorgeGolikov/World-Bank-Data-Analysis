@@ -1,4 +1,4 @@
-package ru.firstlinesoftware.studproject.worldbankdataanalysis
+package worldbankdataanalysis
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
